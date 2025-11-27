@@ -1,10 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nazar\\Desktop\\HabboHotel\\",
+  "WorkspaceRootPath": "C:\\Users\\nazar\\Desktop\\Habbo-Hotel\\HabboHotel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7EF594EE-F412-4C43-837C-04FCDDDC88CB}|HabboHotel\\HabboHotel.csproj|c:\\users\\nazar\\desktop\\habbohotel\\habbohotel\\vistas\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7EF594EE-F412-4C43-837C-04FCDDDC88CB}|HabboHotel\\HabboHotel.csproj|c:\\users\\nazar\\desktop\\habbo-hotel\\habbohotel\\habbohotel\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF594EE-F412-4C43-837C-04FCDDDC88CB}|HabboHotel\\HabboHotel.csproj|solutionrelative:habbohotel\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF594EE-F412-4C43-837C-04FCDDDC88CB}|HabboHotel\\HabboHotel.csproj|c:\\users\\nazar\\desktop\\habbo-hotel\\habbohotel\\habbohotel\\vistas\\administrarhabitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF594EE-F412-4C43-837C-04FCDDDC88CB}|HabboHotel\\HabboHotel.csproj|solutionrelative:habbohotel\\vistas\\administrarhabitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF594EE-F412-4C43-837C-04FCDDDC88CB}|HabboHotel\\HabboHotel.csproj|C:\\Users\\nazar\\Desktop\\Habbo-Hotel\\HabboHotel\\habbohotel\\vistas\\administrarhabitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EF594EE-F412-4C43-837C-04FCDDDC88CB}|HabboHotel\\HabboHotel.csproj|solutionrelative:habbohotel\\vistas\\administrarhabitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF594EE-F412-4C43-837C-04FCDDDC88CB}|HabboHotel\\HabboHotel.csproj|C:\\Users\\nazar\\Desktop\\Habbo-Hotel\\HabboHotel\\habbohotel\\vistas\\buscarhuespued.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EF594EE-F412-4C43-837C-04FCDDDC88CB}|HabboHotel\\HabboHotel.csproj|solutionrelative:habbohotel\\vistas\\buscarhuespued.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF594EE-F412-4C43-837C-04FCDDDC88CB}|HabboHotel\\HabboHotel.csproj|C:\\Users\\nazar\\Desktop\\Habbo-Hotel\\HabboHotel\\habbohotel\\vistas\\buscarhabitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EF594EE-F412-4C43-837C-04FCDDDC88CB}|HabboHotel\\HabboHotel.csproj|solutionrelative:habbohotel\\vistas\\buscarhabitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF594EE-F412-4C43-837C-04FCDDDC88CB}|HabboHotel\\HabboHotel.csproj|C:\\Users\\nazar\\Desktop\\Habbo-Hotel\\HabboHotel\\habbohotel\\vistas\\reservasactivas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EF594EE-F412-4C43-837C-04FCDDDC88CB}|HabboHotel\\HabboHotel.csproj|solutionrelative:habbohotel\\vistas\\reservasactivas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF594EE-F412-4C43-837C-04FCDDDC88CB}|HabboHotel\\HabboHotel.csproj|C:\\Users\\nazar\\Desktop\\Habbo-Hotel\\HabboHotel\\habbohotel\\vistas\\registroreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EF594EE-F412-4C43-837C-04FCDDDC88CB}|HabboHotel\\HabboHotel.csproj|solutionrelative:habbohotel\\vistas\\registroreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF594EE-F412-4C43-837C-04FCDDDC88CB}|HabboHotel\\HabboHotel.csproj|C:\\Users\\nazar\\Desktop\\Habbo-Hotel\\HabboHotel\\habbohotel\\vistas\\historialreservahuesped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EF594EE-F412-4C43-837C-04FCDDDC88CB}|HabboHotel\\HabboHotel.csproj|solutionrelative:habbohotel\\vistas\\historialreservahuesped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF594EE-F412-4C43-837C-04FCDDDC88CB}|HabboHotel\\HabboHotel.csproj|C:\\Users\\nazar\\Desktop\\Habbo-Hotel\\HabboHotel\\habbohotel\\vistas\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7EF594EE-F412-4C43-837C-04FCDDDC88CB}|HabboHotel\\HabboHotel.csproj|solutionrelative:habbohotel\\vistas\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF594EE-F412-4C43-837C-04FCDDDC88CB}|HabboHotel\\HabboHotel.csproj|C:\\Users\\nazar\\Desktop\\Habbo-Hotel\\HabboHotel\\habbohotel\\vistas\\reservasporfecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EF594EE-F412-4C43-837C-04FCDDDC88CB}|HabboHotel\\HabboHotel.csproj|solutionrelative:habbohotel\\vistas\\reservasporfecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +55,116 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\Desktop\\Habbo-Hotel\\HabboHotel\\HabboHotel\\Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "HabboHotel\\Datos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\nazar\\Desktop\\Habbo-Hotel\\HabboHotel\\HabboHotel\\Datos\\Conexion.cs",
+              "RelativeToolTip": "HabboHotel\\Datos\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:46:19.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdministrarHabitaciones.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\Desktop\\Habbo-Hotel\\HabboHotel\\HabboHotel\\Vistas\\AdministrarHabitaciones.cs",
+              "RelativeDocumentMoniker": "HabboHotel\\Vistas\\AdministrarHabitaciones.cs",
+              "ToolTip": "C:\\Users\\nazar\\Desktop\\Habbo-Hotel\\HabboHotel\\HabboHotel\\Vistas\\AdministrarHabitaciones.cs",
+              "RelativeToolTip": "HabboHotel\\Vistas\\AdministrarHabitaciones.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAuwM8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:50:55.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReservasPorFecha.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nazar\\Desktop\\Habbo-Hotel\\HabboHotel\\HabboHotel\\Vistas\\ReservasPorFecha.cs",
+              "RelativeDocumentMoniker": "HabboHotel\\Vistas\\ReservasPorFecha.cs",
+              "ToolTip": "C:\\Users\\nazar\\Desktop\\Habbo-Hotel\\HabboHotel\\HabboHotel\\Vistas\\ReservasPorFecha.cs [Dise\u00F1o]",
+              "RelativeToolTip": "HabboHotel\\Vistas\\ReservasPorFecha.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:50:33.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReservasActivas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nazar\\Desktop\\Habbo-Hotel\\HabboHotel\\HabboHotel\\Vistas\\ReservasActivas.cs",
+              "RelativeDocumentMoniker": "HabboHotel\\Vistas\\ReservasActivas.cs",
+              "ToolTip": "C:\\Users\\nazar\\Desktop\\Habbo-Hotel\\HabboHotel\\HabboHotel\\Vistas\\ReservasActivas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "HabboHotel\\Vistas\\ReservasActivas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:50:32.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistroReserva.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nazar\\Desktop\\Habbo-Hotel\\HabboHotel\\HabboHotel\\Vistas\\RegistroReserva.cs",
+              "RelativeDocumentMoniker": "HabboHotel\\Vistas\\RegistroReserva.cs",
+              "ToolTip": "C:\\Users\\nazar\\Desktop\\Habbo-Hotel\\HabboHotel\\HabboHotel\\Vistas\\RegistroReserva.cs [Dise\u00F1o]",
+              "RelativeToolTip": "HabboHotel\\Vistas\\RegistroReserva.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:50:31.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HistorialReservaHuesped.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nazar\\Desktop\\Habbo-Hotel\\HabboHotel\\HabboHotel\\Vistas\\HistorialReservaHuesped.cs",
+              "RelativeDocumentMoniker": "HabboHotel\\Vistas\\HistorialReservaHuesped.cs",
+              "ToolTip": "C:\\Users\\nazar\\Desktop\\Habbo-Hotel\\HabboHotel\\HabboHotel\\Vistas\\HistorialReservaHuesped.cs [Dise\u00F1o]",
+              "RelativeToolTip": "HabboHotel\\Vistas\\HistorialReservaHuesped.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:50:31.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BuscarHuespued.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nazar\\Desktop\\Habbo-Hotel\\HabboHotel\\HabboHotel\\Vistas\\BuscarHuespued.cs",
+              "RelativeDocumentMoniker": "HabboHotel\\Vistas\\BuscarHuespued.cs",
+              "ToolTip": "C:\\Users\\nazar\\Desktop\\Habbo-Hotel\\HabboHotel\\HabboHotel\\Vistas\\BuscarHuespued.cs [Dise\u00F1o]",
+              "RelativeToolTip": "HabboHotel\\Vistas\\BuscarHuespued.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:50:29.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BuscarHabitacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nazar\\Desktop\\Habbo-Hotel\\HabboHotel\\HabboHotel\\Vistas\\BuscarHabitacion.cs",
+              "RelativeDocumentMoniker": "HabboHotel\\Vistas\\BuscarHabitacion.cs",
+              "ToolTip": "C:\\Users\\nazar\\Desktop\\Habbo-Hotel\\HabboHotel\\HabboHotel\\Vistas\\BuscarHabitacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "HabboHotel\\Vistas\\BuscarHabitacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:50:28.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdministrarHabitaciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nazar\\Desktop\\Habbo-Hotel\\HabboHotel\\HabboHotel\\Vistas\\AdministrarHabitaciones.cs",
+              "RelativeDocumentMoniker": "HabboHotel\\Vistas\\AdministrarHabitaciones.cs",
+              "ToolTip": "C:\\Users\\nazar\\Desktop\\Habbo-Hotel\\HabboHotel\\HabboHotel\\Vistas\\AdministrarHabitaciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "HabboHotel\\Vistas\\AdministrarHabitaciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:50:27.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Principal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\nazar\\Desktop\\HabboHotel\\HabboHotel\\Vistas\\Principal.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\Desktop\\Habbo-Hotel\\HabboHotel\\HabboHotel\\Vistas\\Principal.cs",
               "RelativeDocumentMoniker": "HabboHotel\\Vistas\\Principal.cs",
-              "ToolTip": "C:\\Users\\nazar\\Desktop\\HabboHotel\\HabboHotel\\Vistas\\Principal.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\nazar\\Desktop\\Habbo-Hotel\\HabboHotel\\HabboHotel\\Vistas\\Principal.cs [Dise\u00F1o]",
               "RelativeToolTip": "HabboHotel\\Vistas\\Principal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T19:57:13.732Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-11-15T19:57:13.732Z"
             }
           ]
         }

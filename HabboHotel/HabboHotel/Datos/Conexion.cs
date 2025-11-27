@@ -25,7 +25,7 @@ namespace HabboHotel.Datos
             this.servidor = "127.0.0.1";
             this.puerto = "3306";
             this.usuario = "root";
-            this.password = "root";
+            this.password = "";
         }
 
         public MySqlConnection crearConexion()
